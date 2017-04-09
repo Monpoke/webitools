@@ -1,0 +1,124 @@
+body {
+    background-color: #433D4A;
+}
+
+.bloc_erreur {
+    padding: 20px;
+
+    color: white;
+
+    background-color: #FF4A4A;
+    font-weight: bold;
+
+    width: 35%;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+
+    -moz-box-shadow: 0px 0px 5px 0px #656565;
+    -webkit-box-shadow: 0px 0px 5px 0px #656565;
+    -o-box-shadow: 0px 0px 5px 0px #656565;
+    box-shadow: 0px 0px 5px 0px #656565;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=5);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.erreur {
+    font-weight: bold;
+    color: red;
+}
+
+.bloc_confirm {
+    padding: 20px;
+
+    color: white;
+
+    background-color: #5D745D;
+    font-weight: bold;
+
+    width: 35%;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+
+    -moz-box-shadow: 0px 0px 5px 0px #656565;
+    -webkit-box-shadow: 0px 0px 5px 0px #656565;
+    -o-box-shadow: 0px 0px 5px 0px #656565;
+    box-shadow: 0px 0px 5px 0px #656565;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=5);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+
+.bloc_info {
+    padding: 20px;
+
+    color: #800000;
+
+    background-color: #00CCFF;
+    font-weight: bold;
+
+    width: 60%;
+    max-width: 460px;
+    min-width: 450px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+
+    -moz-box-shadow: 0px 0px 5px 0px #656565;
+    -webkit-box-shadow: 0px 0px 5px 0px #656565;
+    -o-box-shadow: 0px 0px 5px 0px #656565;
+    box-shadow: 0px 0px 5px 0px #656565;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=NaN, Strength=5);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.bloc_info a {
+    text-decoration: none;
+    font-style: italic;
+    color: #993366;
+
+
+}
+
+.bloc_info a:hover {
+    color: #808080;
+    text-decoration: underline;
+    font-size: 1.1em;
+}
+
+#pubpa {
+    position: fixed;
+    bottom:0;
+    left: 0;
+    padding: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-right-radius: 5px;
+    background: #ffffff;
+    color: #000000;
+
+}
+
+#pubpa a {
+    color: green;
+    text-decoration: none;
+
+}
+
+#pubpa a:hover {
+    color: #339966;
+    text-decoration: none;
+
+}
+
+a {
+  color: rgb(220, 213, 226);
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+/* Thème v1 */
+
+/* Mise en Page */
+body { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; }
+a:link { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#0066FF; text-decoration:none; }
+a:visited { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#0066FF; text-decoration:none; }
+a:hover { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#FF0000; text-decoration:none; }
+/* FIN Mise en Page */
+
+/* Définition des CLASS NEWS */
+.news-bloc { width: 300px; }
+.news-title { padding-left: 10px; background-color:#2894FF; border:1px solid #2894FF; color:#FFFFFF; font-size:14px; font-weight:bold; }
+.news-content { padding: 10px; border:1px solid #2894FF; font-size:12px }
+.news-footer { padding-left: 10px; border-left:1px solid #666666; border-right:1px solid #666666; border-bottom:1px solid #666666; background-color:#CCCCCC; font-size:12px }
+/* FIN Définition des CLASS NEWS */
+
+/* Définition de la CLASS AJOUT NEWS */
+.news-ok { width:300px; background-color:#33CC00; color:#FFFFFF; text-align:center; font-size:14px; font-weight:bold; }
+.news-no { width:300px; background-color:#FF0000; color:#FFFFFF; text-align:center; font-size:14px; font-weight:bold; }
+/* FIN Définition de la CLASS AJOUT NEWS */

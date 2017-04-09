@@ -1,0 +1,1 @@
+<?php if(!is_membre())	Redirect("/membre/connexion");		$modules_dispos = array(	'vote',	'inscription',	'connexion',	'liensjours',	'tchat');$modules_persos = array(	'inscription',	'connexion',	'liensjours',	'tchat');
